@@ -1,5 +1,4 @@
 # Ghostbusters-Afterlife
-
 The promo site is made according to the design layout in Figma.
 Were used:
 1. Normalize.css
